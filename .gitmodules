@@ -1,0 +1,3 @@
+[submodule "meus-gastos-server"]
+	path = meus-gastos-server
+	url = https://github.com/guilhermerds/meus-gastos-server.git
